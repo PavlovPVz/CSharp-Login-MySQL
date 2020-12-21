@@ -1,0 +1,9 @@
+C:\Users\Дубина\source\repos\Login Panel\Login Panel\bin\Debug\Login Panel.exe
+C:\Users\Дубина\source\repos\Login Panel\Login Panel\bin\Debug\Login Panel.pdb
+C:\Users\Дубина\source\repos\Login Panel\Login Panel\obj\Debug\Login Panel.csprojAssemblyReference.cache
+C:\Users\Дубина\source\repos\Login Panel\Login Panel\obj\Debug\Login_Panel.Form1.resources
+C:\Users\Дубина\source\repos\Login Panel\Login Panel\obj\Debug\Login_Panel.Properties.Resources.resources
+C:\Users\Дубина\source\repos\Login Panel\Login Panel\obj\Debug\Login Panel.csproj.GenerateResource.cache
+C:\Users\Дубина\source\repos\Login Panel\Login Panel\obj\Debug\Login Panel.csproj.CoreCompileInputs.cache
+C:\Users\Дубина\source\repos\Login Panel\Login Panel\obj\Debug\Login Panel.exe
+C:\Users\Дубина\source\repos\Login Panel\Login Panel\obj\Debug\Login Panel.pdb
