@@ -7,7 +7,7 @@ namespace Login_Panel
 {
     class DB
     {
-        MySqlConnection connection = new MySqlConnection("server=178.154.229.185;port=3306;username=gold1;password=MetaRa1nq10;database=onioncheat");
+        MySqlConnection connection = new MySqlConnection("server=ip;port=3306;username=user;password=pass;database=onioncheat");
 
         public void openConnection()
         {
